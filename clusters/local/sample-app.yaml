@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://<github-user>.github.io/k8s-gitops-lab/helm-repo
+    repoURL: https://thetogi.github.io/k8s-gitops-lab/helm-repo
     chart: sample-app
     targetRevision: 0.1.0
     helm:
