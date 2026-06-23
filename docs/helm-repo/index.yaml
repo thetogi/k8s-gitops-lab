@@ -3,7 +3,17 @@ entries:
   sample-app:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-23T16:14:14.7621994-05:00"
+    created: "2026-06-23T17:06:52.3634587-05:00"
+    description: Barebones sample app with health and Prometheus metrics
+    digest: 10b08a6c02bb7928b3c4103b21e44fc0c8199054f8ae9d910d0949ceb15d56a2
+    name: sample-app
+    type: application
+    urls:
+    - https://thetogi.github.io/k8s-gitops-lab/helm-repo/sample-app-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-06-23T17:06:52.3629193-05:00"
     description: Barebones sample app with health and Prometheus metrics
     digest: e275fe1d8d5535dd5a9e7b33d3d1c4073001cdd6d343c570385aac591ea437b2
     name: sample-app
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-23T16:14:14.7616741-05:00"
+    created: "2026-06-23T17:06:52.3623952-05:00"
     description: Barebones sample app with health and Prometheus metrics
     digest: 1d2c2312b1b4d863a55e54db009ac688e195c106c40fa062a4fc4e728e022d73
     name: sample-app
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://thetogi.github.io/k8s-gitops-lab/helm-repo/sample-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-23T16:14:14.7600987-05:00"
+generated: "2026-06-23T17:06:52.3598178-05:00"
