@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://thetogi.github.io/k8s-gitops-lab/helm-repo
     chart: sample-app
-    targetRevision: 0.1.0
+    targetRevision: 0.1.1
     helm:
       values: |
         image:
